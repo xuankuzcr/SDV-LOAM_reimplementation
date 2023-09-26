@@ -100,7 +100,7 @@ uint16_t *queueIndX;
 uint16_t *queueIndY;
 
 //Vel 64 Parameters
-extern const int N_SCAN = 64;
+extern const int N_SCAN = 32;
 extern const int Horizon_SCAN = 1800;
 extern const float ang_res_x = 0.2;
 extern const float ang_res_y = 0.427;
